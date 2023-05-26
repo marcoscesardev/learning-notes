@@ -8,12 +8,12 @@ Engineering management is not just about people management. Hands-on expertise g
 
 You should expect from your manager:
 
-- Managers cares about you as a person
-- Teach you important skills
-- Give you valuable feedbacks
-- Help you to navigate thru difficult situations
-- Make you realize what you need to learn
-- Show you what you need to focus on
+- Managers care about you as a person.
+- They teach you important skills.
+- They provide valuable feedback.
+- They help you navigate through difficult situations.
+- They help you realize what you need to learn.
+- They show you what you need to focus on.
 
 ### One-on-one meetings
 
