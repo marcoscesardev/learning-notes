@@ -6,6 +6,7 @@ Taking notes on books I read, talks I watch, articles I study, and papers I love
 ### Books
 
 * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](books/the-managers-path.md) by **Camille Fournier**, 2017.
+* [The Pragmatic Programmer: From Journeyman to Master (PT-br)](books/the-pragmatic-programmer.md) by **Andrew Hunt** and **David Thomas**, 1999.
 
 ### Talks
 
