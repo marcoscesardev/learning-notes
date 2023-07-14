@@ -6,37 +6,79 @@ Engineering management is not just about people management. Hands-on expertise g
 
 ## Management 101
 
-You should expect from your manager:
+### What to Expect from a Manager
 
-- Managers care about you as a person.
-- They teach you important skills.
-- They provide valuable feedback.
-- They help you navigate through difficult situations.
-- They help you realize what you need to learn.
-- They show you what you need to focus on.
+- It's important to have a good manager who cares about you as a person, helps in your professional growth, teaches important skills, and provides valuable feedback.
+- A good manager should help you understand what to focus on and empower you in that direction.
+- Practical actions:
+  - Identify your needs and expectations regarding a manager.
+  - Clearly and assertively communicate your needs and expectations to your manager.
+  - Seek feedback regularly and be open to receiving constructive criticism.
+  - Seek opportunities for learning and professional development, and share your goals with your manager.
 
-### One-on-one meetings
+### Minimum Tasks a Manager Should Perform and Practical Actions
 
-**1-1s allow human connection.** You should let your manager know about your life a bit, it would be easier to ask for time off when times become stressful. Great managers notice your energy level.
+- A good manager should perform basic tasks to keep you and your team on track.
+- Practical actions:
+  - Establish clear communication with your manager, informing them about progress and any obstacles in your work.
+  - Request the necessary information and resources to fulfill your responsibilities.
+  - Set clear and realistic goals together with your manager.
+  - Establish an action plan to address problems or conflicts that may arise.
 
-Being an introvert is not an excuse to avoid treating people like human beings. Your manager should treat you like a human that has a life outside work, you should expect to talk a few minutes about that life when you meet.
+### ONE-ON-ONE MEETINGS
 
-**It is an opportunity to speak privately.** You should expect 1-1s to be scheduled with some predictability, so that you can plan for them.
+- Individual meetings with your manager serve the purpose of building a good working relationship and discussing important matters.
+- Practical actions:
+  - Be prepared for one-on-one meetings, bringing an agenda for discussion and thinking in advance about the topics you want to address.
+  - Communicate the importance of having regular one-on-one meetings and a stable agenda with your manager.
+  - Utilize one-on-one meetings to discuss not only status reports but also to share ideas, seek guidance, and provide feedback.
+  - If your manager frequently cancels or changes meetings, be proactive in seeking a more stable agenda or confirming meetings in advance.
 
-Good 1-1s are not status meetings. You can use the email or chat for those.
+### FEEDBACK AND WORKPLACE GUIDANCE
 
-It's a good idea to come with an agenda of things to discuss.
+- It's important to receive feedback, have support at work, and feel valued by your manager.
+- Practical actions:
+  - Request feedback regularly and be open to receiving both positive and negative feedback.
+  - Communicate your needs and concerns to your manager, seeking their support in resolving them.
+  - Seek to understand the value of your work and how it aligns with the team's objectives, but also be proactive in driving one-on-one meetings and bringing topics for discussion and feedback.
 
-### Feedback and workplace guidance
+### TRAINING AND CAREER GROWTH
 
-Good managers will let you know when you screw up. The sooner you know about your bad habits the easier they will be to correct.
+- Your manager plays an important role in supporting your professional growth, training, promotion, and compensation.
+- Practical actions:
+  - Seek training and professional growth resources, such as courses, workshops, or internal programs.
+  - Discuss your career aspirations and the skills necessary to achieve your goals with your manager.
+  - Set development goals together with your manager and regularly track progress.
+  - Be open to promotion and growth opportunities within the company and communicate your interest in taking on new challenges and responsibilities.
+  - Address the topic of compensation appropriately, discussing your expectations with your manager during performance reviews or one-on-one meetings.
 
-**Praise should be public and criticism should be private.**
+### YOU ARE RESPONSIBLE FOR YOURSELF
 
-If you do things apart from code, your manager should help you out to improve in those things. Asking for advice is a great way to show respect to her. **Your manager is your number one ally.**
+- Conflicts with your manager may arise, and it's important to know how to resolve them constructively.
+- Practical actions:
+  - Address conflicts with your manager calmly and professionally, avoiding direct or aggressive confrontations.
+  - Seek to understand your manager's perspective and actively listen to their concerns.
+  - Find common ground and work together to reach a mutually satisfactory solution.
+  - If necessary, involve human resources or other appropriate channels within the company to help mediate the conflict.
 
-In difficult situations with your teammate or people from other teams, your manager should be there to help you navigate the situation.
+### GIVE YOUR MANAGER A BREAK
 
-Good managers will also help you understand the value of the work you are doing when is not fun or glamourous.
+- Having a trusting relationship with your manager is essential for effective collaboration.
+- Practical actions:
 
-The more senior you become, the less feedback you will be likely to receive. You should become comfortable driving your 1-1s.
+  - Be honest and transparent with your manager, sharing relevant information and being reliable in your commitments.
+  - Fulfill your responsibilities and deadlines, demonstrating reliability.
+  - Communicate clearly and respectfully, avoiding gossip or behaviors detrimental to the work environment
+
+- Show respect for your manager, acknowledging their achievements and valuing their contributions.
+
+### CHOOSE YOUR MANAGERS WISELY
+
+- In some situations, you may encounter a bad manager, and it's important to know how to deal with that situation.
+- Practical actions:
+  - Evaluate the situation and determine if there are actions you can take to improve the relationship or communication with your manager.
+  - If possible, seek feedback from colleagues or superiors about the situation and explore possible solutions.
+  - If all attempts at improvement fail, consider the option of reporting your manager's behavior to human resources or top management in the company.
+  - If necessary, explore the possibility of transferring to another team or department within the company.
+
+It's important to remember that each situation can be unique, and these practical actions may vary depending on the context. Always assess the situation and seek the most appropriate approach to deal with your manager.
