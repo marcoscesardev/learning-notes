@@ -6,14 +6,18 @@ por Andy Hunt e Dave Thomas
 
 - **O GATO COMEU MEU CÓDIGO** - Não culpe os outros ou as circunstâncias por seus problemas. Assuma a responsabilidade e faça algo a respeito.
   - Dê soluções e não desculpas.
+
 - **ENTROPIA DE SOFTWARE** - Processo de deteriorização de Software. O software tende a ficar mais desorganizado com o tempo.
   - O que causa a diferença? Uma janela quebrada. Essa teoria diz que as janelas quebradas levam a mais janelas quebradas. Se você não consertar a primeira janela quebrada, as pessoas vão pensar que é aceitável quebrar mais janelas.
   - Apagando incêndios: Uma casa impecável estava pegando fogo, a equipe de bombeiros encarregada de conter o incêndio resolveu tirar o tapete para não sujar antes de começar a apagar o fogo.
+
 - **SOPA DE PEDRAS E SAPOS COZIDOS**
   - Você pode saber o que precisa ser feito, mas se preocupa com a fadiga inicial, então apresente a ideia básica mas bem estruturada, apresente às pessoas e deixe que elas se admirem, após isso diga "É claro que ficaria melhor se...". Finja que não é importatante e espere e que peçam, se provar o êxito, as pessoas vão querer.
   - Fique atento a mudanças sutis, se você colocar um sapo em uma panela com água fervendo, ele vai pular fora, mas se você colocar um sapo em uma panela com água fria e aquecer lentamente, ele vai cozinhar até a morte.
+
 - **SOFTWARE SATISTATÓRIO** - Buscando o melhor, geralmente prejudicamos o que é bom.
   - Envolva os usuários nas tomadas de decisões, isso não significa que você vai ignorar qualidade para atender o prazo, a qualidade deve ser parte dos requisitos do sistema
+
 - **SUA CARTEIRA DE CONHECIMENTOS** - "Um investimentos em conhecimento sempre paga os melhores juros", Benjamin Franklin.
   - Construindo sua carteira:
     - Invista regularmente: Mesmo se for pouco, mas invista, o hábito é mais importante que a quantidade.
@@ -21,6 +25,7 @@ por Andy Hunt e Dave Thomas
     - Gerencie o risco: Não invista tudo em uma tecnologia, se você investir tudo em uma tecnologia e ela se tornar obsoleta, você vai perder tudo.
     - Compre baixo e venda alto: Aprenda as tecnologias que estão em alta, mas não se limite a elas, aprenda as tecnologias que estão em baixa também, pois elas podem ser a tendência.
     - Reexamine e reestruture: Avalie o seu conhecimento, caso necessário procure sobre aquela linguagem que você não vê a algum tempo
+
   - Objetivos:
     - Aprenda uma linguagem de programação por ano: Aprendendo várias abordagens vai ajudar a expandir sua mente, você vai aprender novas técnicas e vai poder aplicar em outras linguagens.
     - Leia um livro técnico por trimestre: Aprenda sobre novas tecnologias, novas técnicas, novas abordagens, novas linguagens, etc.
