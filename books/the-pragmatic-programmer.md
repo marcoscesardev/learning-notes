@@ -35,4 +35,25 @@ por Andy Hunt e Dave Thomas
     - Experimente ambientes diferentes: Novas IDEs e sistemas operacionais
     - Mantenha-se informado: Leia revistas, blogs, etc que não se relacionem com o seu projeto atual
     - Mantenha-se conectado: Participe de comunidades, fóruns, etc.
+  
   - Oportudade de aprendizado
+    - Caso alguém lhe faça uma pergunta e você francamente responde que não sabe a resposta não pare por aí, tente descobrir a resposta, pesquise, estude, etc.
+    - O tempo gasto na espera de consultórios pode ser para atualizar a leitura.
+  
+  - Pensamento crítico
+    - Não acredite em tudo que você lê, ouve ou vê, questione, pesquise, estude, etc.
+    - Desafios:
+      - Comece a aprender uma nova linguagem de programação essa semana
+      - Comece a ler um novo livro
+      - Converse com outras pessoas sobre tecnologia
+  
+  - Comunique-se
+    - Ter ideias boas, o melhor código, não é o suficiente, você precisa se comunicar, você precisa vender a sua ideia
+    - Saiba o que você que dizer:
+      - Faça rascunhos e questione: "isso representa o que estou tentando dizer?", isso se aplica a qualquer tipo de comunicação, seja ela verbal ou escrita. Anote as ideias que quer passar e esboce estratégias para comunicá-las.
+
+    - Conheça seu público-alvo:
+      - Não adianta você usar termos técnicos com pessoas que não são da área, isso é falar, mas não é se comunicar.
+      - Pense o que cada pessoa/grupo precisa saber, e como você pode passar essa informação de forma que eles entendam.
+
+    - Escolha seu momento
